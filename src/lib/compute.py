@@ -12,7 +12,9 @@ class Compute:
             difference-= item
         print(difference)
     def divide(self):
-        pass
+        quotient=1
+        for item in self.operands:
+            quotient/=item
     def multiply(self):
         if self.operands is None:
             return
