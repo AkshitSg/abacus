@@ -1,0 +1,1 @@
+# add methods for sin, cos, tan.
